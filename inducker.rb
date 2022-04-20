@@ -1,8 +1,8 @@
 class Inducker < Formula
   desc "Bootstraps running a docker image in current directory."
   homepage "https://github.com/ikhurramraza/inducker"
-  url "https://github.com/ikhurramraza/inducker/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "726b9c7ae6d0233aaf2d12bf26573e619f23d7040b6a2f4c177a3f861d2b3c7d"
+  url "https://github.com/ikhurramraza/inducker/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "eaa67a15c1d2fbcc8569087a045ca76987ac112e1960fb7bc23e38a67be5d18b"
   license "MIT"
 
   def install
